@@ -12,7 +12,7 @@ Source code folder contains a separate license file that must **NOT** be removed
 Removing this license file directly violates terms and conditions of the software under testing.
 Individuals who remove or modify the license file will also carry the consequences.
 
-<a href='https://coveralls.io/github/yinkagold/testGroup'><img src='https://coveralls.io/repos/github/yinkagold/testGroup/badge.svg' alt='Coverage Status' /></a>
+[![Coverage Status](https://coveralls.io/repos/github/yinkagold/testGroup/badge.svg?branch=yinka)](https://coveralls.io/repos/github/yinkagold/testGroup?branch=yinka)
 
 ## SetUp:
 
